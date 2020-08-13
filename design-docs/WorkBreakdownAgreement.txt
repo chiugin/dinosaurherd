@@ -1,0 +1,79 @@
+# Work Breakdown Agreement
+
+Chong Chiu Gin and Chin Wen Yuan will be responsible for the following deliverables:
+
+##Class Diagrams
+Chong Chiu Gin: producing class diagrams
+Chin Wen Yuan: testing and reviewing
+
+##Sequence diagrams:
+Chin Wen Yuan: producing sequence diagrams
+Chong Chiu Gin: testing and reviewing
+
+##Design Rationale: 
+Chong Chiu Gin: producing design rationale
+Chin Wen Yuan: testing and reviewing
+
+
+## Testing/Reviewing of all Deliverables
+- Chong Chiu Gin 
+- Chin Wen Yuan
+
+
+TIMELINE ASSIGNMENT 1
+Class Diagram 			    - 11/09/2019
+Review of Class Diagram 	- 11/09/2019
+Sequence Diagrams 		    - 12/09/2019
+Review of Sequence Diagram 	- 12/09/2019
+Design Rationale		    - 13/09/2019
+Review of all deliverables	- 13/09/2019
+
+Chong Chiu Gin: "I accept this WBA."
+Chin Wen Yuan: "I accept this WBA."
+
+
+
+
+
+WORK BREAKDOWN AGREEMENT ASSIGNMENT 2
+
+##Code
+Chong Chiu Gin: Shop, BuyAction, SellAction, Dinosaurs, Protoceratops, Velociraptors, TagAction, FeedAction
+Chin Wen Yuan: Grass, Dirt, Tree, HungryBehaviour, EatAction, BreedAction, PortableDinoItem, Egg
+
+TIMELINE ASSIGNMENT 2
+Implemented all required Source Code		- 1/10/19
+Review and Update Class Diagram (if need to)	- 2/10/19
+Change design rationale				- 2/10/19
+Review Source Code				- 3/10/19
+Review all deliverables				- 3/10/19
+
+Chong Chiu Gin: "I accept this WBA."
+Chin Wen Yuan: "I accept this WBA."
+
+
+WORK BREAKDOWN AGREEMENT ASSIGNMENT 3
+
+##Class Diagrams
+Chong Chiu Gin: producing class diagrams
+Chin Wen Yuan: testing and reviewing
+
+##Sequence diagrams:
+Chin Wen Yuan: producing sequence diagrams
+Chong Chiu Gin: testing and reviewing
+
+##Design Rationale: 
+Chin Wen Yuan: producing design rationale
+Chong Chiu Gin: testing and reviewing
+
+##Coding implementation
+Chong Chiu Gin 	- extends GameMap
+		        - adding new water-terrain in new GameMap and add fish in water
+		        - implement Plesiosaurs
+Chin Wen Yuan 	- implement pteranodons
+		        - implement T-Rex
+Both members will test the game thoroughly to ensure all required functionality of the dinosaurs is implemented and
+the ending the game works.
+
+Chong Chiu Gin: "I accept this WBA."
+Chin Wen Yuan : "I accept this WBA."
